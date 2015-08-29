@@ -1,0 +1,22 @@
+{
+  "name": "traffic-songs",
+  "version": "1.0.0",
+  "description": "an experimental app for turning traffic into songs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avocadojesus/traffic-songs.git"
+  },
+  "author": "avojeez0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avocadojesus/traffic-songs/issues"
+  },
+  "dependencies": {
+    "connect": "^3.4.0",
+    "serve-static": "^1.10.0"
+  }
+}
